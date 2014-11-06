@@ -1,0 +1,4 @@
+libjingle
+=========
+
+libjingle for rhino
